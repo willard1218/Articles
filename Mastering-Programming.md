@@ -27,7 +27,7 @@ Take a big project, cut it into thin slices, and rearrange the slices to suit yo
 ###One thing at a time. 一次只做一件事
 We’re so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
 
-我們非常著重於效率，於是我們降低回饋週期的次數來試著漸少開銷。產生的問題並不容易顯現，那就是預期花費大於我們想避免的週期開銷。
+由於我們相當注重效率，因此我們總是試圖減少回饋週期的次數以避免重新檢視的無謂開銷。但這往往反而導致了偵錯難度的提升，其付出的成本常大於原本想避免回饋週期所產生的開銷。
 
 ###Make it run, make it right, make it fast. 讓它動起來，正確，快速
 (Example of One Thing at a Time, Slicing, and Easy Changes)
