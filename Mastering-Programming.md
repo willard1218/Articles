@@ -22,7 +22,7 @@ The theme here is scaling your brain. The journeyman learns to solve bigger prob
 ###Slicing 細分
 Take a big project, cut it into thin slices, and rearrange the slices to suit your context. I can always slice projects finer and I can always find new permutations of the slices that meet different needs.
 
-將一個大專案細分成數個小切片，然後依照你的需求現狀重新排列。我隨時可以將這些專案再切得更細小，而且還能重新組合來面對不同的需求。
+將一個大專案細分成數個小切片，並且重新排列以符合你的現況。我隨時可以將這些專案再切得更細小，而且還能重新組合來面對不同的需求。
 
 ###One thing at a time. 一次只做一件事
 We’re so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
