@@ -3,8 +3,6 @@
 > [Original article link](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)  
 > Translated with the permission from the author, [KENT BECK](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?comment_id=1185657178133811&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)
 
-
-
 From years of watching master programmers, I have observed certain common patterns in their workflows. From years of coaching skilled journeyman programmers, I have observed the absence of those patterns. I have seen what a difference introducing the patterns can make.
 
 這幾年來觀察了很多大師級的程式設計師，發現他們的工作流程中有一些共通的模式。幾年來在輔導很多有水準的資深碼工（程式設計師）時，卻沒有觀察到這些模式。我已見證導入這些模式能帶來多大的差別。
@@ -32,7 +30,6 @@ We’re so focused on efficiency that we reduce the number of feedback cycles in
 ###Make it run, make it right, make it fast. 讓它動起來，正確，快速
 (Example of One Thing at a Time, Slicing, and Easy Changes)
 （「細分」、「一次只做一件事」、「簡化更動」的例子）
-
 
 ###Easy changes. 簡化更動
 When faced with a hard change, first make it easy (warning, this may be hard), then make the easy change. (e.g. slicing, one thing at a time, concentration, isolation). Example of slicing.
@@ -66,7 +63,6 @@ When the program is misbehaving, articulate exactly what you think is wrong befo
 
 當程式執行不合預期時，在做修改前，先明確指出你覺得什麼事做錯了。如果你有兩種以上的假設，分析這些假設有哪些差異。
 
-
 ###Remove extraneous detail. 移除外部細節
 When reporting a bug, find the shortest repro steps. When isolating a bug, find the shortest test case. When using a new API, start from the most basic example. “All that stuff can’t possibly matter,” is an expensive assumption when it’s wrong.
 E.g. see a bug on mobile, reproduce it with curl
@@ -86,25 +82,20 @@ Things that are almost the same can be divided into parts that are identical and
 
 幾乎等同的事物，可以被切割成重複到的部分跟完全不一樣的部分。
 
-
 ###Aesthetics. 美感
 Beauty is a powerful gradient to climb. It is also a liberating gradient to flout (e.g. inlining a bunch of functions into one giant mess).
 
 「美感」是一個難以攀爬、有影響力的梯度，同時也是一個常被嘲笑忽視的、奔放的梯度（例如：行內定義一堆函數然後變得一團亂）。
-
-
 
 ###Rhythm. 節奏
 Waiting until the right moment preserves energy and avoids clutter. Act with intensity when the time comes to act.
 
 等待時機，儲備精力，避免混亂。時機成熟時，將爆發力化為行動。
 
-
 ###Tradeoffs. 折衷
 All decisions are subject to tradeoffs. It’s more important to know what the decision depends on than it is to know which answer to pick today (or which answer you picked yesterday).
 
 所有決策都有可能要面對折衷。更重要的是去了解這些決策取決於什麼，而不是今天（或昨天）選擇了哪個選項。
-
 
 ##Risk 風險
 
