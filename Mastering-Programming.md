@@ -1,9 +1,7 @@
 #Mastering Programming
 #精通程式設計
-> [Original article link](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
+> [Original article link](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)  
 > Translated with the permission from the author, [KENT BECK](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?comment_id=1185657178133811&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)
-
-
 
 From years of watching master programmers, I have observed certain common patterns in their workflows. From years of coaching skilled journeyman programmers, I have observed the absence of those patterns. I have seen what a difference introducing the patterns can make.
 
@@ -11,7 +9,7 @@ From years of watching master programmers, I have observed certain common patter
 
 Here are ways effective programmers get the most out of their precious 3e9 seconds on the planet.
 
-接下來談談有效率的程式設計師如何好好運用他們生活在地球上珍貴的 30 億秒（譯註：約等於95年）。
+接下來談談有效率的程式設計師如何好好運用他們生活在地球上珍貴的 30 億秒（譯註：約等於 95 年）。
 
 The theme here is scaling your brain. The journeyman learns to solve bigger problems by solving more problems at once. The master learns to solve even bigger problems than that by solving fewer problems at once. Part of the wisdom is subdividing so that integrating the separate solutions will be a smaller problem than just solving them together.
 
@@ -32,7 +30,6 @@ We’re so focused on efficiency that we reduce the number of feedback cycles in
 ###Make it run, make it right, make it fast. 讓它動起來，正確，快速
 (Example of One Thing at a Time, Slicing, and Easy Changes)
 （「細分」、「一次只做一件事」、「簡化更動」的例子）
-
 
 ###Easy changes. 簡化更動
 When faced with a hard change, first make it easy (warning, this may be hard), then make the easy change. (e.g. slicing, one thing at a time, concentration, isolation). Example of slicing.
@@ -66,7 +63,6 @@ When the program is misbehaving, articulate exactly what you think is wrong befo
 
 當程式執行不合預期時，在做修改前，先明確指出你覺得什麼事做錯了。如果你有兩種以上的假設，分析這些假設有哪些差異。
 
-
 ###Remove extraneous detail. 移除外部細節
 When reporting a bug, find the shortest repro steps. When isolating a bug, find the shortest test case. When using a new API, start from the most basic example. “All that stuff can’t possibly matter,” is an expensive assumption when it’s wrong.
 E.g. see a bug on mobile, reproduce it with curl
@@ -77,7 +73,7 @@ E.g. see a bug on mobile, reproduce it with curl
 ###Multiple scales. 多重規模
 Move between scales freely. Maybe this is a design problem, not a testing problem. Maybe it is a people problem, not a technology problem [cheating, this is always true].
 
-時時在不同尺度中遊走。「這也許是設計問題，而不是測試問題」。「也許這是人的問題，而不是技術問題」（這有點作弊，因為永遠都是人的問題）。
+時時在不同規模中遊走。「這也許是設計問題，而不是測試問題」。「也許這是人的問題，而不是技術問題」（這有點作弊，因為永遠都是人的問題）。
 
 ##Transcend Logic 超越邏輯
 
@@ -86,25 +82,20 @@ Things that are almost the same can be divided into parts that are identical and
 
 幾乎等同的事物，可以被切割成重複到的部分跟完全不一樣的部分。
 
-
 ###Aesthetics. 美感
 Beauty is a powerful gradient to climb. It is also a liberating gradient to flout (e.g. inlining a bunch of functions into one giant mess).
 
 「美感」是一個難以攀爬、有影響力的梯度，同時也是一個常被嘲笑忽視的、奔放的梯度（例如：行內定義一堆函數然後變得一團亂）。
-
-
 
 ###Rhythm. 節奏
 Waiting until the right moment preserves energy and avoids clutter. Act with intensity when the time comes to act.
 
 等待時機，儲備精力，避免混亂。時機成熟時，將爆發力化為行動。
 
-
 ###Tradeoffs. 折衷
 All decisions are subject to tradeoffs. It’s more important to know what the decision depends on than it is to know which answer to pick today (or which answer you picked yesterday).
 
 所有決策都有可能要面對折衷。更重要的是去了解這些決策取決於什麼，而不是今天（或昨天）選擇了哪個選項。
-
 
 ##Risk 風險
 
