@@ -77,7 +77,7 @@ E.g. see a bug on mobile, reproduce it with curl
 ###Multiple scales. 多重規模
 Move between scales freely. Maybe this is a design problem, not a testing problem. Maybe it is a people problem, not a technology problem [cheating, this is always true].
 
-時時在不同尺度中遊走。「這也許是設計問題，而不是測試問題」。「也許這是人的問題，而不是技術問題」（這有點作弊，因為永遠都是人的問題）。
+時時在不同規模中遊走。「這也許是設計問題，而不是測試問題」。「也許這是人的問題，而不是技術問題」（這有點作弊，因為永遠都是人的問題）。
 
 ##Transcend Logic 超越邏輯
 
