@@ -11,7 +11,7 @@ From years of watching master programmers, I have observed certain common patter
 
 Here are ways effective programmers get the most out of their precious 3e9 seconds on the planet.
 
-接下來談談有效率的程式設計師如何好好運用他們生活在地球上珍貴的 30 億秒（譯註：約等於95年）。
+接下來談談有效率的程式設計師如何好好運用他們生活在地球上珍貴的 30 億秒（譯註：約等於 95 年）。
 
 The theme here is scaling your brain. The journeyman learns to solve bigger problems by solving more problems at once. The master learns to solve even bigger problems than that by solving fewer problems at once. Part of the wisdom is subdividing so that integrating the separate solutions will be a smaller problem than just solving them together.
 
