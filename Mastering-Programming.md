@@ -1,6 +1,6 @@
 #Mastering Programming
 #精通程式設計
-> [Original article link](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
+> [Original article link](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)  
 > Translated with the permission from the author, [KENT BECK](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?comment_id=1185657178133811&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)
 
 
