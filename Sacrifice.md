@@ -4,14 +4,14 @@ There will never be a point in your ti — in your life — where it’s the rig
 
 > 人生中沒有「作大事」的完美時機。
 
-> 如果你在等待那完美時機出現，那是永遠不會發生的。
+> 如果你在等待那完美時機自己出現，那是永遠不會發生的。
 
 > 你知道該怎麼辦嗎？
 
-> 你必須自己創造一個完美的時機，完美的機遇，和完美的局勢
+> 你必須自己去創造一個完美的時機，完美的機遇，和完美的局勢
 
 So a lot of people become comfortable. They stop growing, they stop wanting anything, they become satisfied.
-> 大多數的人逐漸變得安逸。他們不再成長，不再渴望任何東西，他們變得滿足於現況。
+> 大多數的人逐漸變得安逸。他們不再成長，不再渴望任何東西，他們滿足於現況。
 
 People getting ready to go to jobs that they don’t like, jobs that are making them sick. You see when you are not pursuing your goal, you are literally committing spiritual suicide. When you have some goal out here that you are stretching for and reaching for that takes you out of your comfort zone, you’ll find out some talents and abilities you have that you didn’t know you have.
 
@@ -57,7 +57,7 @@ I want you to make that dream become a reality, because if you don’t, you will
 因為如果你不去作，那你最後就會去為別人工作，去實現別人的夢想。
 
 And everybody is against you, or don’t believe in you no more. And let me tell you something, that’s a lonely feeling. That’s a lonely feeling. Particularly people that you are doing it for.
-> 當每個人都反對你，每個人都不看好你時，我知道，那是種非常寂寞的感覺，真的非常寂寞的感覺。
+> 當每個人都反對你，每個人都不看好你時，我知道，那是種非常孤獨的感覺，真的非常孤獨的感覺。
 尤其是當不看好你的人就正是你想努力為他們打拼的人。
 
 Most people take their greatness, take their ideas to the graveyard with them.
