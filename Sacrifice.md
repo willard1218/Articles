@@ -17,7 +17,7 @@ People getting ready to go to jobs that they don’t like, jobs that are making 
 
 > 許多人作著他們不滿意的工作 -- 讓他們覺得反胃的工作。
 
-> 聽著: 當你不努力追求你的人生目標，那你就是在心靈與精神上自殘。
+> 聽著：當你不努力追求你的人生目標，那你就是在心靈與精神上自殘。
 
 > 當你有想努力伸出手去拼命掙取、強制你走出舒適圈的人生目標時，你會發現你從來不知道你有的天賦與能力。
 
@@ -61,30 +61,43 @@ And everybody is against you, or don’t believe in you no more. And let me tell
 尤其是當不看好你的人就正是你想努力為他們打拼的人。
 
 Most people take their greatness, take their ideas to the graveyard with them.
+> 大多數人
 
 Listen to me, if it was easy, everybody would do it. There are people right now who are working who don’t want to work. There are people who hate their jobs, but they keep getting up to do it.
+> 聽著：如果這件事很容易，那每個人都會做。總是有些人他們不想要工作。總是有些人會討厭他們的工作，但他們還是得做。
 
 The wealthiest place on the planet, is the graveyard. Because in the graveyard we will find inventions that we never ever were exposed to. Ideas, dreams, that never became reality. Hopes and aspirations that were never acted upon.
+> 在地球上最富有的地方，就是墓地。因為在墓地裡我們會找到從來沒有出現過的發明。想法、夢想永遠無法成真。希望和靈感從來無法作用。
 
 The question is what are you going to do with your time. What drives you. Greatness is a lot of small things done well. Day, after day. Workout after workout. Obedience after obedience. Day after day.
+> 這問題就是你要如何運用你的時間。什麼東西會驅使你，真正的強大是把很多小事做得很好。日復一日，運動、順從。
 
 When things don’t work out for you. When things happen that you could not anticipate. What are the reasons that you can think of that can keep you strong.
+> 當這些事對你不再有用。當你不期待這些事的發生。你必須思考是什麼初衷能讓你內心保持壯大。
 
 You will never ever be successful, until you turn your pain into greatness, until you allow your pain to push you from where you are to push you to where you need to be. Stop running from your pain and embrace your pain. Your pain is going to be a part of your prize, a part of your product. I challenge you to push yourself.
+> 除非你能將困境化為壯大的心志，能讓困境激勵你，讓你成為你想要成為的人，你才會成功。擁抱你的困境，你的困境將會變成獎賞的一部分，你的成果中的一部分。我挑戰你自我激勵。
 
 See it’s easy to be on the bottom, it doesn’t take any effort to be a loser. It doesn’t take any motivation and any drive in order to stay down there on a low level. But it calls on everything in you. You have to harness your will to say I’m going to challenge myself.
+> 你看，要成為底層的人是很簡單的，如果不想付出努力，那只會變成一個失敗者。在底層的人，不會有任何動機和任何驅使你？。但任何事都在呼喊你。你必須無懼地說，我要挑戰我自己。
 
 I mean that what you did last week don’t count. Today today is the only important day. There are eighty-six thousand, four hundred seconds in a day and how you use those are critical. You got eighty-six thousand, four hundred today and what you do today is going to cement who you are. Nobody gonna talk about what you did last week.
+> 我要說的是，過去你做什麼都不重要。今天是一個很重要的日子，一天裡面有 8萬6千4百秒，關鍵在於你如何使用這一天。你今天有 8萬6千4百秒 決定你要成為怎樣的人。沒有人在意你上禮拜做了什麼。
 
 Yet the biggest enemy that you have to deal with is yourself. There’s an old African proverb that says “If there’s no enemy within, the enemy outside can do us no harm.”
+> 最大的敵人其實是自己，你必須去對抗他。有個年長的非洲人說：如果消滅自己裡面的敵人，那身體外部的敵人就無法傷害我們。
 
 You have this opportunity of a lifetime. It means absolutely nothing if you don’t take advantage of it in the lifetime of this opportunity.
+> 你在一生中有個機會。如果你不把握這個機會，代表什麼都做不成。
 
 I got a saying that when life knocks you down, try to land on your back, because if you can look up, you can get up. If you want a thing bad enough to go out and fight for it, to work day and night for it, to give up your time and your peace and your sleep for it. If all that you dream and scheme is about it. And life seems useless and worthless without it.
+> 我得說當生活過得不如意時，就算跌倒，生命仍有許多事值得你去追求，讓你的夢想幫你重新站起，如果你想要解決壞事，就要去和他戰鬥，努力工作，去犧牲你的時間和逃離舒適圈，甚至犧牲睡眠時間也要完成它。如果你的夢想和藍圖只有現在這樣，那生命會變得無趣。
 
 See it’s time now. If you want to make this your decade, you’ve to start saying yes to your life. You’ve got to start saying yes to your dreams. Yes to your unfolding future. Yes to your potential. As opposed to saying no.
+> 時間到了！如果你想要？？你就要開始面對你的生活，你要開始追求你的夢想。揭開你的未來。相信自己有潛力。
 
 When you die, die on E. Leave no dream left behind guys. Leave no opportunity left behind. When you leave this earth, accomplish every single thing you can accomplish.
+> 當你離去的時候，夢想不會留下，機會不會留下。當你離開地球，要完成任何你能完成的事。
 
 Listen to me, you’re going to be here one day, but you’ll never get here if you give up, if you give in, if you quit. And finally guys, you gotta wanna succeed, as bad, as you wanna, breath.
-
+> 聽著，你將來有一天會成功，但如果你放棄了就無法到達那一天。最後會有人說，你要成功了，盡你所能。
