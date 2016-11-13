@@ -61,120 +61,44 @@ And everybody is against you, or don’t believe in you no more. And let me tell
 尤其是當不看好你的人就正是你想努力為他們打拼的人。
 
 Most people take their greatness, take their ideas to the graveyard with them.
-> 大多數人
-
-「壯志未酬身先死」
-
-大多數人帶著他們的天賦與理想步入墳墓。
+> 大多數人帶著他們的天賦與理想步入墳墓。
 
 Listen to me, if it was easy, everybody would do it. There are people right now who are working who don’t want to work. There are people who hate their jobs, but they keep getting up to do it.
-> 聽著：如果這件事很容易，那每個人都會做。總是有些人他們不想要工作。總是有些人會討厭他們的工作，但他們還是得做。
-
-聽好
-如果這很簡單，那其他人早就在作了。
-此時此刻，有人心不甘情不願地工作、作著他們厭惡的工作，但他們最後還是乖乖照作。
+> 聽好，如果這很簡單，那其他人早就在作了。此時此刻，有人心不甘情不願地工作、作著他們厭惡的工作，但他們最後還是乖乖照作。
 
 The wealthiest place on the planet, is the graveyard. Because in the graveyard we will find inventions that we never ever were exposed to. Ideas, dreams, that never became reality. Hopes and aspirations that were never acted upon.
-> 在地球上最富有的地方，就是墓地。因為在墓地裡我們會找到從來沒有出現過的發明。想法、夢想永遠無法成真。希望和靈感從來無法作用。
-
-這星球上最富有的地方，就是墳場。
-因為在墳場裡，埋著我們從來沒看過的、沒有成真的發明、理想、夢想；沒有被實踐的希望與靈感。
+> 這星球上最富有的地方，就是墳場。因為在墳場裡，埋著我們從來沒看過的、沒有成真的發明、理想、夢想；沒有被實踐的希望與靈感。
 
 The question is what are you going to do with your time. What drives you. Greatness is a lot of small things done well. Day, after day. Workout after workout. Obedience after obedience. Day after day.
-> 這問題就是你要如何運用你的時間。什麼東西會驅使你，真正的強大是把很多小事做得很好。日復一日，運動、順從。
-
-最重要的問題就是: 「你如何運用你的時間？驅使你前進的原動力是什麼？」
-
-「偉大的成就」就是把許多微不足道的小事作好所累積起來的。
-一天又一天。
-一次又一次。
-忠實地遵循這個原則。
-一天又一天，把無數微不足道的小事，作好。
+> 最重要的問題就是: 「你如何運用你的時間？驅使你前進的原動力是什麼？」「偉大的成就」就是把許多微不足道的小事作好所累積起來的。一天又一天。一次又一次。忠實地遵循這個原則。一天又一天，把無數微不足道的小事，作好。
 
 When things don’t work out for you. When things happen that you could not anticipate. What are the reasons that you can think of that can keep you strong.
-> 當這些事對你不再有用。當你不期待這些事的發生。你必須思考是什麼初衷能讓你內心保持壯大。
-
-當事情進展不如預期，
-當意外狀況發生時，
-你必須想想: 有什麼樣的理由、人事物，能給你堅強的意志，支持你繼續走下去？
+> 當事情進展不如預期，當意外狀況發生時，你必須想想: 有什麼樣的理由、人事物，能給你堅強的意志，支持你繼續走下去？
 
 You will never ever be successful, until you turn your pain into greatness, until you allow your pain to push you from where you are to push you to where you need to be. Stop running from your pain and embrace your pain. Your pain is going to be a part of your prize, a part of your product. I challenge you to push yourself.
-> 除非你能將困境化為壯大的心志，能讓困境激勵你，讓你成為你想要成為的人，你才會成功。擁抱你的困境，你的困境將會變成獎賞的一部分，你的成果中的一部分。我挑戰你自我激勵。
-
-除非你能把痛苦轉化成你的偉大志向，除非你讓「困境」驅使你從「現況」邁向理想，不然，你永遠也無法成功。
-
-正面面對困境，不要再逃避。
-
-「克服困境中痛苦」將變成你的成就，將會是你給自己最好的獎品。
-
-我在此挑戰你: 超越你的極限！
+> 除非你能把痛苦轉化成你的偉大志向，除非你讓「困境」驅使你從「現況」邁向理想，不然，你永遠也無法成功。正面面對困境，不要再逃避。「克服困境中痛苦」將變成你的成就，將會是你給自己最好的獎品。我在此挑戰你: 超越你的極限！
 
 See it’s easy to be on the bottom, it doesn’t take any effort to be a loser. It doesn’t take any motivation and any drive in order to stay down there on a low level. But it calls on everything in you. You have to harness your will to say I’m going to challenge myself.
-> 你看，要成為底層的人是很簡單的，如果不想付出努力，那只會變成一個失敗者。在底層的人，不會有任何動機和任何驅使你？。但任何事都在呼喊你。你必須無懼地說，我要挑戰我自己。
-
-你看，要留在底層是很簡單的；不費吹灰之力，不需要任何動力，不需要任何決心，就能變成魯蛇。
-
-但是！
-
-若要挑戰自己、超越自己極限，你必須使出洪荒之力，凝聚你所有的意志力，向你自己下戰書: 我要超越我自己！
+> 你看，要留在底層是很簡單的；不費吹灰之力，不需要任何動力，不需要任何決心，就能變成魯蛇。但是！若要挑戰自己、超越自己極限，你必須使出洪荒之力，凝聚你所有的意志力，向你自己下戰書: 我要超越我自己！
 
 I mean that what you did last week don’t count. Today today is the only important day. There are eighty-six thousand, four hundred seconds in a day and how you use those are critical. You got eighty-six thousand, four hundred today and what you do today is going to cement who you are. Nobody gonna talk about what you did last week.
-> 我要說的是，過去你做什麼都不重要。今天是一個很重要的日子，一天裡面有 8萬6千4百秒，關鍵在於你如何使用這一天。你今天有 8萬6千4百秒 決定你要成為怎樣的人。沒有人在意你上禮拜做了什麼。
-
-告訴你: 你上週作過的努力，已經是過去了。
-
-「今天」，才是最重要的。
-
-一天有八萬六千四百秒，你如何運動這八萬六千四百秒才是最關鍵的。
-
-你「今天」作的事才會定義你是誰；沒有人會去關心你上週有多努力。
+> 告訴你: 你上週作過的努力，已經是過去了。「今天」，才是最重要的。一天有八萬六千四百秒，你如何運用這八萬六千四百秒才是最關鍵的。你「今天」作的事才會定義你是誰；沒有人會去關心你上週有多努力。
 
 Yet the biggest enemy that you have to deal with is yourself. There’s an old African proverb that says “If there’s no enemy within, the enemy outside can do us no harm.”
-> 最大的敵人其實是自己，你必須去對抗他。有個年長的非洲人說：如果消滅自己裡面的敵人，那身體外部的敵人就無法傷害我們。
-
-你最大的敵人，是你自己。
-
-有句非洲俗話說: 「如果沒有內賊，那外敵將無法傷我分毫」
+> 你最大的敵人，是你自己。有句非洲俗話說: 「如果沒有內賊，那外敵將無法傷我分毫」
 
 You have this opportunity of a lifetime. It means absolutely nothing if you don’t take advantage of it in the lifetime of this opportunity.
-> 你在一生中有個機會。如果你不把握這個機會，代表什麼都做不成。
-
-這是你人生中的大好機會。
-
-但如果你在這大好機會消逝前不好好把握的話，那就什麼也不是。
+> 這是你人生中的大好機會。但如果你在這大好機會消逝前不好好把握的話，那就什麼也不是。
 
 I got a saying that when life knocks you down, try to land on your back, because if you can look up, you can get up. If you want a thing bad enough to go out and fight for it, to work day and night for it, to give up your time and your peace and your sleep for it. If all that you dream and scheme is about it. And life seems useless and worthless without it.
-> 我得說當生活過得不如意時，就算跌倒，生命仍有許多事值得你去追求，讓你的夢想幫你重新站起，如果你想要解決壞事，就要去和他戰鬥，努力工作，去犧牲你的時間和逃離舒適圈，甚至犧牲睡眠時間也要完成它。如果你的夢想和藍圖只有現在這樣，那生命會變得無趣。
-
-如果你有渴望、追求的事物、願意為它奮戰的事物、為它日夜不停努力的事物、為它不惜放棄睡眠與安逸的生活的事物、你所有夢想與計畫寄託於上的的事物、少了它生命就索然無味的事物，
-
-那麼: 當命運把你打倒在地上時，用你的背部去著地；因為，如果你仍能往上看，那你就能爬起來。
+> 如果你有渴望、追求的事物、願意為它奮戰的事物、為它日夜不停努力的事物、為它不惜放棄睡眠與安逸的生活的事物、你所有夢想與計畫寄託於上的的事物、少了它生命就索然無味的事物，那麼: 當命運把你打倒在地上時，用你的背部去著地；因為，如果你仍能往上看，那你就能爬起來。
 
 See it’s time now. If you want to make this your decade, you’ve to start saying yes to your life. You’ve got to start saying yes to your dreams. Yes to your unfolding future. Yes to your potential. As opposed to saying no.
-> 時間到了！如果你想要？？你就要開始面對你的生活，你要開始追求你的夢想。揭開你的未來。相信自己有潛力。
-
-就是現在！
-
-如果你讓造就你的時代，你必須正面面對你的人生，你必須正面面對你的夢想，你必須正面面對未來，你必須正面面對你的潛力與可能性。
-
-而不是虛與委蛇、欺騙自己。
+> 就是現在！如果你要造就你的時代，你必須正面面對你的人生，你必須正面面對你的夢想，你必須正面面對未來，你必須正面面對你的潛力與可能性。而不是虛與委蛇、欺騙自己。
 
 When you die, die on E. Leave no dream left behind guys. Leave no opportunity left behind. When you leave this earth, accomplish every single thing you can accomplish.
-> 當你離去的時候，夢想不會留下，機會不會留下。當你離開地球，要完成任何你能完成的事。
+> 當你停下腳步時，確認你已經使盡渾身解數。不要留下任何未完成的夢想。不要留下任何沒抓住的機會。當你離開人事時，完成所有你可以完成的事。註: 此處 E 應該是指車子油箱「空(Empty)」的狀態, 相對於「滿(Full)」
 
-註: 此處 E 應該是指車子油箱「空(Empty)」的狀態, 相對於「滿(Full)」
-
-當你停下腳步時，確認你已經使盡渾身解數。
-
-不要留下任何未完成的夢想。
-
-不要留下任何沒抓住的機會。
-
-當你離開人事時，完成所有你可以完成的事。
 
 Listen to me, you’re going to be here one day, but you’ll never get here if you give up, if you give in, if you quit. And finally guys, you gotta wanna succeed, as bad, as you wanna, breath.
-> 聽著，你將來有一天會成功，但如果你放棄了就無法到達那一天。最後會有人說，你要成功了，盡你所能。
-
-聽好！你有一天會成功，但前提是你不能放棄、不能投降、不能離場。
-
-你對於成功的渴望，必須要像你對於呼吸空氣的渴望一樣，沒有它，你就活不下去。
+> 聽好！你有一天會成功，但前提是你不能放棄、不能投降、不能離場。你對於成功的渴望，必須要像你對於呼吸空氣的渴望一樣，沒有它，你就活不下去。
