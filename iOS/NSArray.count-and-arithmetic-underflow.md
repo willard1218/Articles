@@ -1,25 +1,13 @@
 NSArray.count and arithmetic underflow
 ==
 
-需求
-===
-在走訪 array 時，要把 arr[i]、arr[i+1] 做比較，如果相等就要刪除兩個；否則，就繼續走訪。
- 
-程式如下：
 
 ```objective-c
-NSMutableArray *arr = [NSMutableArray arrayWithArray:@[@2,@2]];
-    
-int i = 0;
-while (i < arr.count -1) {
-    bool removeTwoItems = [arr[i] intValue] ==
-                          [arr[i+1] intValue];
-    if (removeTwoItems) {
-        [arr removeObjectAtIndex:i];
-        [arr removeObjectAtIndex:i];
-    } else {
-        i++;
-    }
+NSMutableArray *arr = [NSMutableArray array];
+
+int i = 1;
+if (i < arr.count - 1) {
+  [arr removeObjectAtIndex:i];
 }
 ```
 
@@ -48,22 +36,7 @@ while (i < arr.count -1) {
 	
 		*** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 0 beyond bounds for empty array'
 		
-	
-下斷點發現看是在第二次走訪時，array 已經是空的，卻還從裡面拿東西，就在想為什麼會這樣，做了個小實驗：
-
-```objective-c
-NSMutableArray *arr = [NSMutableArray array];
-    
-int i = 0;
-if (i < arr.count - 1) {
-    NSLog(@"0 < -1");
-}
-else {
-    NSLog(@"0 >= -1");
-}
-```
-    
-卻發現會執行 if 區塊的 Log，跑去看蘋果文件的 [NSArray count](https://developer.apple.com/reference/foundation/nsarray/1409982-count?language=objc) 的解說，發現 count 這個方法是回傳 NSUInteger 型態的數值，於是再做了個實驗：
+根據蘋果文件的 [NSArray count](https://developer.apple.com/reference/foundation/nsarray/1409982-count?language=objc) 的解說，發現 count 這個方法是回傳 NSUInteger 型態的數值，於是再做了個實驗：
 
 ```objective-c
 NSMutableArray *arr = [NSMutableArray array];
