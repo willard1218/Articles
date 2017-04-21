@@ -67,8 +67,8 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 
 有些人可能會想到，將 `kTodoItemCellIdentifier` 放到一個 Constant.h，  
 好讓其他類別能夠使用，  
-但問題來了：*每個 XXXCell，你都要在宣告一次常數，
-日後 Constant.h 會隨著專案越來越大而越來越多行，變得更難維護。* 
+但問題來了：*每個 XXXCell，你都要在宣告一次常數，*  
+*日後 Constant.h 會隨著專案越來越大而越來越多行，變得更難維護。* 
 
 我的解法是，宣告在 `UITableViewCell` 的 **catrgory**，  
 增加一個 **class method** : `- (NSString *)Identifier`，  
