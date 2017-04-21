@@ -32,7 +32,7 @@
 ```objective-c
 - (void)viewDidLoad {
   // ...
-  [self.tableView registerClass: TodoItemCell.class forCellReuseIdentifier:@"cellId"];
+  [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:@"cellId"];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -43,8 +43,8 @@
 ```
 
 
-問題來了：*因為兩邊使用到 `ReuseIdentifier` 都是寫死，  
-很可能改一個地方忘記改另外一個地方。*
+問題來了：*因為兩邊使用到 `ReuseIdentifier` 都是寫死，*  
+*很可能改一個地方忘記改另外一個地方。*
 
 ## 重構 - 將共同的抽離出來
 
@@ -95,7 +95,7 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 如此一來，因為 `TodoItemCell` 繼承 `UITableViewCell`，  
 所以只要使用 `[TodoItemCell identifier]` 就可以拿到我想要的東西，  
 
-因為產生出來的 `ReuseIdentifier` 會使用目前的 class 名字，  
+因為會使用目前的 class 名字，產生動態的的 `ReuseIdentifier`，  
 所以具備唯一性，  
 即使以後新增 `XXXCell`，我也不需要重新定義常數 `kXXXCellIdentifier`，   
 藉以達到 **Write once, run anywhere**。
