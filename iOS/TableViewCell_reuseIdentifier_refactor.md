@@ -95,9 +95,10 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 如此一來，因為 `TodoItemCell` 繼承 `UITableViewCell`，  
 所以只要使用 `[TodoItemCell identifier]` 就可以拿到我想要的東西，  
 
-因為會使用目前的 class 名字，產生動態的的 `ReuseIdentifier`，  
+因為會使用目前的 class 名字，產生動態的 `ReuseIdentifier`，  
 所以具備唯一性，  
-即使以後新增 `XXXCell`，我也不需要重新定義常數 `kXXXCellIdentifier`，   
+即使以後新增 `XXXCell`、`YYYCell`，  
+也不需要重新定義常數 `kXXXCellIdentifier`、`kYYYCellIdentifier`，     
 藉以達到 **Write once, run anywhere**。
 
 
