@@ -31,14 +31,14 @@
 
 ```objective-c
 - (void)viewDidLoad {
-  // ...
-  [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:@"cellId"];
+    // do something ...
+    [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:@"cellId"];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-  TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cellId"];
-  // do something ...
-  return cell;
+    TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cellId" forIndexPath:indexPath];
+    // do something ...
+    return cell;
 }
 ```
 
@@ -51,14 +51,14 @@
 ```objective-c
 const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 - (void)viewDidLoad {
-  // ...
-  [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:kTodoItemCellIdentifier];
+    // do something ...
+    [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:kTodoItemCellIdentifier];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-  TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:kTodoItemCellIdentifier];
-  // do something ...
-  return cell;
+    TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:kTodoItemCellIdentifier forIndexPath:indexPath];
+    // do something ...
+    return cell;
 }
 ```
 
@@ -76,7 +76,7 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 實作如下：
 
 
-## 重構 - 寫在類別層級
+## 重構 - 在 UITableViewCell 的 Catrgory
 
 ```objective-c
 @interface UITableViewCell (Helpers)
@@ -86,8 +86,8 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 
 @implementation UITableViewCell (Helpers)
 + (NSString *)identifier {
-  NSString *reuseIdentifier = [NSString stringWithFormat:@"%@Identifier", NSStringFromClass(self.class)];
-  return reuseIdentifier;
+    NSString *reuseIdentifier = [NSString stringWithFormat:@"%@Identifier", NSStringFromClass(self.class)];
+    return reuseIdentifier;
 }
 @end
 ```
@@ -101,4 +101,79 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 也不需要重新定義常數 `kXXXCellIdentifier`、`kYYYCellIdentifier`，     
 藉以達到 **Write once, run anywhere**。
 
+### 後記
+此篇文章分享在 [Swift Taiwan](https://www.facebook.com/groups/swifttw/permalink/1487577911254580/) 後，有網友分享更方便的 [寫法](http://qiita.com/tattn/items/bdce2a589912b489cceb#uitableview)，  
+已將內文中的 Swift 版本改成 Objectice-c：
 
+
+## 重構 - 寫在 UITableView 的 Category
+```objective-c
+// UITableView+Helper.h
+
+#import <UIKit/UIKit.h>
+
+@interface UITableView (Helper)
+
+- (void)registerClass:(_Nonnull Class)cellClass;
+
+- (void)registerClassList:(NSArray <Class> *_Nonnull)cellClassList;
+
+- (__kindof UITableViewCell *_Nonnull)dequeueReusableCellWithClass:(_Nonnull Class)cellClass forIndexPath:(NSIndexPath *_Nonnull)indexPath;
+
+@end
+```
+
+
+```objective-c
+// UITableView+Helper.m
+#import "UITableView+Helper.h"
+
+@implementation UITableView (Helper)
+
+- (void)registerClass:(_Nonnull Class)cellClass {
+    NSString *reuseIdentifier = NSStringFromClass(cellClass);
+    [self registerClass:cellClass forCellReuseIdentifier:reuseIdentifier];
+}
+
+
+- (void)registerClassList:(NSArray <Class>*)cellClassList {
+    for (Class class in cellClassList) {
+        [self registerClass:class];
+    }
+}
+
+- (__kindof UITableViewCell *_Nonnull)dequeueReusableCellWithClass:(_Nonnull Class)cellClass forIndexPath:(NSIndexPath *_Nonnull)indexPath {
+    return [self dequeueReusableCellWithIdentifier:NSStringFromClass(cellClass) forIndexPath:indexPath];
+}
+
+@end
+```
+
+相較於原本的寫法，現在使用更方便了：
+
+```objective-c
+- (void)viewDidLoad {
+    // do something ...
+    
+    [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:[TodoItemCell Identifier]];
+    // 重構 - 在 UITableViewCell 的 Catrgory
+    
+    [self.tableView registerClass:TodoItemCell.class];
+    // 重構 - 寫在 UITableView 的 Category
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:[TodoItemCell Identifier] forIndexPath:indexPath];
+    // 重構 - 在 UITableViewCell 的 Catrgory
+    
+    TodoItemCell *cell = [tableView dequeueReusableCellWithClass:TodoItemCell.class forIndexPath:indexPath];
+    // 重構 - 寫在 UITableView 的 Category
+    
+    // do something ...
+    return cell;
+}
+```
+
+可以看出有以下好處：
+1. 註冊 cell 的時候，從兩個參數縮減為一個。
+2. 隱藏了 `ReuseIdentifier`，讓介面統一使用 `TodoItemCell.class` 當參數。
