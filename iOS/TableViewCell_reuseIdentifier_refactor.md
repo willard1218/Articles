@@ -76,7 +76,7 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 實作如下：
 
 
-## 重構 - 在 UITableViewCell 的 Catrgory
+## 重構 - 寫在 UITableViewCell 的 Catrgory
 
 ```objective-c
 @interface UITableViewCell (Helpers)
@@ -156,7 +156,7 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
     // do something ...
     
     [self.tableView registerClass:TodoItemCell.class forCellReuseIdentifier:[TodoItemCell Identifier]];
-    // 重構 - 在 UITableViewCell 的 Catrgory
+    // 重構 - 寫在 UITableViewCell 的 Catrgory
     
     [self.tableView registerClass:TodoItemCell.class];
     // 重構 - 寫在 UITableView 的 Category
@@ -164,7 +164,7 @@ const NSString *kTodoItemCellIdentifier = @"TodoItemCellIdentifier";
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     TodoItemCell *cell = [tableView dequeueReusableCellWithIdentifier:[TodoItemCell Identifier] forIndexPath:indexPath];
-    // 重構 - 在 UITableViewCell 的 Catrgory
+    // 重構 - 寫在 UITableViewCell 的 Catrgory
     
     TodoItemCell *cell = [tableView dequeueReusableCellWithClass:TodoItemCell.class forIndexPath:indexPath];
     // 重構 - 寫在 UITableView 的 Category
