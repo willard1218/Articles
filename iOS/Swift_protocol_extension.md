@@ -481,4 +481,9 @@ FindUserRequest().sendRequest(success: { (user) in
 例如 Response Body 可能會多個 `JSONArrayResponseBody`、`JSONModelArrayResponseBody` 等等，  
 等未來如果擴充這些格式時，既有的程式不必做修改，只需定義新的 protocal 即可。
 
+文中的程式還有許多地方可以修改的，例如：
+
+1. API 錯誤、Http Method 應該要用 enum 定義比較洽當，但本文章的目的不是這些，所以不再另外寫。  
+2. 還可以擴充 URL 的產生方式，例如有些參數會打在網址上，但目前擴充以上三類，覺得已經足夠說明 `Protocol Extension` 這個概念，所以就不再贅述。
+
 [程式](https://gist.github.com/willard1218/958eb31fa49b2c15ca1fdbae75c5b40d)
