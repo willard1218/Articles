@@ -14,7 +14,12 @@
 5. Response Body
 
 這篇文章主要針對 3, 4, 5 項來進行擴充，
-因為此三類裡面都會有很多不同的格式(灰色方框)，例如： 
+因為此三類裡面都會有很多不同的轉換邏輯(灰色方框)，    
+轉換邏輯是指，例如 API a 的 Request Body 裡面可能要將 JSON 轉成 Data；  
+而 API b 的 Request Body 裡面可能要將  JSON array 轉成 data，當 API 越來越多，轉換邏輯可能會重複寫很多次，  
+這文章會介紹如何將這轉換邏輯統一寫在 protocol extension，達到重複使用的效果。
+
+因此，以下每個設定簡單列出會有哪些分類：
 
 1. Request Header
 	1. FormURLEncodedRequestHeader
@@ -33,7 +38,7 @@
 
 ![](https://i.imgur.com/spCmYSe.png)
 
-一個 API Request Client 模組，如果一開始為了應付幾個簡單的 API，可能會這樣設計：
+一個 API Request Client 模組，如果一開始為了應付幾個簡單的 API，在還沒使用 protocol 前，可能會這樣設計：
 
 ```swift
 struct Request {
