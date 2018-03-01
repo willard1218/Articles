@@ -2,7 +2,7 @@
 會大量使用 `Protocol extension` *(How)* 特性來擴充這個模組，  
 近而讓`程式變得容易維護且擴充性高` *(Why)*。
 
-
+所以此篇文章重點不是在寫一個 API Request module，而是藉由這個例子了解 `Protocol extension` 的功能強大之處。
 
 # 情境
 常常我們需要跟後端 API 做溝通，會建立 URLRequest，基本上都需要做各種設定：
